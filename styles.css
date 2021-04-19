@@ -1,0 +1,25 @@
+h1{
+    margin: 0;
+    font-size: 60px;
+}
+
+h1 a{
+  text-decoration: none;
+  color: black;
+}
+
+h1 a:hover{
+  color: blue;
+}
+
+.yes{
+  background-color: orange;
+  text-align: center;
+  height: 100vh;
+  padding-top: 300px;
+}
+
+body{
+  margin: 0;
+  margin-top: 0;
+}
